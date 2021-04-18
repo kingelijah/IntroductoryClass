@@ -1,0 +1,16 @@
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\bin\Debug\net5.0\IntroductoryClass.exe
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\bin\Debug\net5.0\IntroductoryClass.deps.json
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\bin\Debug\net5.0\IntroductoryClass.runtimeconfig.json
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\bin\Debug\net5.0\IntroductoryClass.runtimeconfig.dev.json
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\bin\Debug\net5.0\IntroductoryClass.dll
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\bin\Debug\net5.0\ref\IntroductoryClass.dll
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\bin\Debug\net5.0\IntroductoryClass.pdb
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\obj\Debug\net5.0\IntroductoryClass.csprojAssemblyReference.cache
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\obj\Debug\net5.0\IntroductoryClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\obj\Debug\net5.0\IntroductoryClass.AssemblyInfoInputs.cache
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\obj\Debug\net5.0\IntroductoryClass.AssemblyInfo.cs
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\obj\Debug\net5.0\IntroductoryClass.csproj.CoreCompileInputs.cache
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\obj\Debug\net5.0\IntroductoryClass.dll
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\obj\Debug\net5.0\ref\IntroductoryClass.dll
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\obj\Debug\net5.0\IntroductoryClass.pdb
+C:\Users\ElijahAleakhue\Desktop\IntroductoryClass\obj\Debug\net5.0\IntroductoryClass.genruntimeconfig.cache
